@@ -1,0 +1,14 @@
+category,characteristic,total_employed,percent_employed,hours_per_week
+all,total,150748,67.8,7.53
+all,ft,117521,71.7,8.04
+all,pt,33227,53.8,5.13
+male,ft,68598,73.1,8.27
+male,pt,11390,53.9,4.85
+female,ft,48923,69.7,7.69
+female,pt,21837,53.7,5.28
+job_status,Single jobholders,135474,66.7,7.53
+job_status,Multiple jobholders,15274,76.9,7.57
+education,Less than high school,10635,68.1,7.9
+education,High school diploma \5,38739,66.4,7.84
+education,Some college,33489,69.2,7.59
+education,Bachelor's degree or higher,44026,73.8,7.37
